@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Pyqt5**
 
-- 👨‍💻 All of my projects are available at [repos(https://github.com/jacula98?tab=repositories)]
-
 - 📫 How to reach me **jacekkurek98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
