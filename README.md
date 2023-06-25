@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacula98&label=Profile%20views&color=0e75b6&style=flat" alt="jacula98" /> </p>
 
-- 🔭 I’m currently working on [Gamebot v2](https://github.com/jacula98/Gamebot-v2)
+- 🔭 I’m currently working on [MLearning](https://github.com/jacula98/MLearning)
 
 - 🌱 I’m currently learning **Machine Learning, Pyqt5**
 
